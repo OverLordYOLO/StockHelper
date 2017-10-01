@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <commissionPercentageUSD>0.008</commissionPercentageUSD>
+  <commissionPerShareUSD>0.007</commissionPerShareUSD>
+  <commissionPerTradeUSD>0.006</commissionPerTradeUSD>
+  <commissionMaxPerTradeUSD>0</commissionMaxPerTradeUSD>
+  <commissionMaxPerTrade_percentage_CurrencyUSD>1</commissionMaxPerTrade_percentage_CurrencyUSD>
+  <commissionMinPerTradeUSD>0</commissionMinPerTradeUSD>
+  <commissionMinPerTrade_percentage_CurrencyUSD>1</commissionMinPerTrade_percentage_CurrencyUSD>
+  <capitalUSD>200</capitalUSD>
+  <riskPercentageUSD>2</riskPercentageUSD>
+  <commissionPercentageEUR>0.003</commissionPercentageEUR>
+  <commissionPerShareEUR>0.002</commissionPerShareEUR>
+  <commissionPerTradeEUR>0.001</commissionPerTradeEUR>
+  <commissionMaxPerTradeEUR>1</commissionMaxPerTradeEUR>
+  <commissionMaxPerTrade_percentage_CurrencyEUR>0</commissionMaxPerTrade_percentage_CurrencyEUR>
+  <commissionMinPerTradeEUR>1</commissionMinPerTradeEUR>
+  <commissionMinPerTrade_percentage_CurrencyEUR>0</commissionMinPerTrade_percentage_CurrencyEUR>
+  <capitalEUR>4000</capitalEUR>
+  <riskPercentageEUR>1</riskPercentageEUR>
+  <commissionPercentageCZK>0.35</commissionPercentageCZK>
+  <commissionPerShareCZK>0</commissionPerShareCZK>
+  <commissionPerTradeCZK>0</commissionPerTradeCZK>
+  <commissionMaxPerTradeCZK>1190</commissionMaxPerTradeCZK>
+  <commissionMaxPerTrade_percentage_CurrencyCZK>0</commissionMaxPerTrade_percentage_CurrencyCZK>
+  <commissionMinPerTradeCZK>40</commissionMinPerTradeCZK>
+  <commissionMinPerTrade_percentage_CurrencyCZK>0</commissionMinPerTrade_percentage_CurrencyCZK>
+  <capitalCZK>200000</capitalCZK>
+  <riskPercentageCZK>1</riskPercentageCZK>
+</Settings>

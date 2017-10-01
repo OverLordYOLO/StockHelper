@@ -1,0 +1,10 @@
+C:\Users\Matěj\documents\visual studio 2015\Projects\StockHelper\StockHelper\bin\Release\StockHelper.exe.config
+C:\Users\Matěj\documents\visual studio 2015\Projects\StockHelper\StockHelper\bin\Release\StockHelper.exe
+C:\Users\Matěj\documents\visual studio 2015\Projects\StockHelper\StockHelper\bin\Release\StockHelper.pdb
+C:\Users\Matěj\documents\visual studio 2015\Projects\StockHelper\StockHelper\obj\Release\StockHelper.Form1.resources
+C:\Users\Matěj\documents\visual studio 2015\Projects\StockHelper\StockHelper\obj\Release\StockHelper.Properties.Resources.resources
+C:\Users\Matěj\documents\visual studio 2015\Projects\StockHelper\StockHelper\obj\Release\StockHelper.csproj.GenerateResource.Cache
+C:\Users\Matěj\documents\visual studio 2015\Projects\StockHelper\StockHelper\obj\Release\StockHelper.exe
+C:\Users\Matěj\documents\visual studio 2015\Projects\StockHelper\StockHelper\obj\Release\StockHelper.pdb
+C:\Users\Matěj\documents\visual studio 2015\Projects\StockHelper\StockHelper\obj\Release\StockHelper.csprojResolveAssemblyReference.cache
+C:\Users\Matěj\documents\visual studio 2015\Projects\StockHelper\StockHelper\bin\Release\StockHelper.ico
